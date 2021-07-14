@@ -1,3 +1,7 @@
+host: khemenu.thoth-station.ninja
+tls_verify: false
+requirements_format: pip
+
 managers:
   - name: info
   - name: version
